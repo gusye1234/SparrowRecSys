@@ -29,3 +29,8 @@ target/
 SparrowRecSys.iml
 TFRecModel.iml
 RecPySpark.iml
+
+.classpath
+.project
+.settings
+.vscode
